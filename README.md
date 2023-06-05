@@ -107,4 +107,4 @@ Publish the website in the given URL.
 ![Screenshot 2023-05-15 090452](https://github.com/arun1111j/standard-calculator/assets/128461833/346eae14-07e9-4fbb-bce4-ebf5eb31d757)
 
 ## Result:
-
+ a web application for a standard calculator is developed.
